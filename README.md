@@ -1,12 +1,12 @@
 <!-- Banner Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22,23&height=220&section=header&text=Hi%20there,%20I'm%20Alfian!%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22,23&height=200&section=header&text=Hi%20there,%20I'm%20Alfian!%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
 </p>
 
 <!-- Animated Subtitle -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Backend+Web+Developer;Fullstack+Engineer;IoT+Developer+(Arduino+%2F+ESP32);PHP%2C+Laravel+%26+Node.js" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Learning+Web+Development;Learning+IoT+%26+Robotics;PHP+%26+Laravel+Beginner;Arduino+%26+ESP32+Explorer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,37 +18,29 @@
   <a href="https://github.com/alfianmuhf" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
-  <a href="mailto:alfianmuh.f@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
-  </a>
 </p>
 
 <hr />
 
 <!-- Introduction & About Me -->
-<table align="center" border="0" cellpadding="10">
-  <tr>
-    <td width="55%" valign="top">
-      <h3>⚡ About Me</h3>
-      <p>I am a passionate <b>Backend / Fullstack Web Developer & IoT Enthusiast</b> dedicated to building clean, secure, and high-performance web applications, as well as hardware-integrated systems using microcontrollers.</p>
-      <ul>
-        <li>🔭 Currently crafting production-ready web applications.</li>
-        <li>🌱 Continuously mastering <b>Node.js Microservices</b>, advanced <b>Laravel Design Patterns</b>, and RESTful API optimizations.</li>
-        <li>💬 Ask me about <b>PHP Native, CodeIgniter 3, Laravel, Node.js, Arduino, or ESP32</b>.</li>
-        <li>⚡ Fun fact: CodeIgniter 3 was my first major framework love, but Laravel is my superpower!</li>
-      </ul>
-    </td>
-    <td width="45%" align="center" valign="middle">
-      <!-- Premium Developer Illustration -->
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FkYTcxOTBhZmNlMGNmZGRiY2EwOGVkYThjMGFhMWJhOTRkYzk2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3cXyzhj75IOgvA/giphy.gif" width="300" alt="Developer GIF" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h3>⚡ About Me</h3>
+  <p>Hi! I'm Alfian. I am a beginner web and IoT developer who loves learning new technologies. Currently exploring backend development and hardware integration using microcontrollers like Arduino and ESP32.</p>
+</div>
+
+<div align="left" style="margin-left: 20px;">
+  <ul>
+    <li>🔭 Currently building simple web applications and basic electronics projects.</li>
+    <li>🌱 Currently learning and exploring <b>Laravel</b>, <b>Node.js</b>, and basic hardware components.</li>
+    <li>💬 Feel free to ask or share about <b>PHP, CodeIgniter 3, Laravel, Node.js, Arduino, or ESP32</b> (still learning and practicing all of them!).</li>
+    <li>⚡ Fun fact: CodeIgniter 3 was my first major framework love, but Laravel is super awesome!</li>
+  </ul>
+</div>
 
 <hr />
 
 <!-- Tech Stack Grid -->
-<h3 align="center">🛠️ Technologies & Tools</h3>
+<h3 align="center">🛠️ Technologies & Tools I'm Learning</h3>
 
 <p align="center">
   <!-- PHP Native -->
@@ -104,7 +96,7 @@
 <hr />
 
 <!-- GitHub Live Stats Cards -->
-<h3 align="center">📊 GitHub Statistics</h3>
+<h3 align="center">📊 My GitHub Stats</h3>
 
 <p align="center">
   <!-- GitHub Readme Stats -->
@@ -125,8 +117,4 @@
 <p align="center">
   <!-- Visitor Badge -->
   <img src="https://komarev.com/normal-badge/?username=alfianmuhf&color=007bec&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Dev Quote" width="100%" />
 </p>
