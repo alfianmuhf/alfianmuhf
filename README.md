@@ -6,7 +6,7 @@
 <!-- Animated Subtitle -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Backend+Web+Developer;Fullstack+Engineer;PHP+%26+Laravel+Enthusiast;Building+Scalable+Applications" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Backend+Web+Developer;Fullstack+Engineer;IoT+Developer+(Arduino+%2F+ESP32);PHP%2C+Laravel+%26+Node.js" alt="Typing SVG" />
   </a>
 </p>
 
@@ -30,11 +30,11 @@
   <tr>
     <td width="55%" valign="top">
       <h3>⚡ About Me</h3>
-      <p>I am a passionate <b>Backend / Fullstack Web Developer</b> dedicated to building clean, secure, and high-performance web applications. I love solving complex architectural challenges, optimizing database queries, and keeping up with modern web standards.</p>
+      <p>I am a passionate <b>Backend / Fullstack Web Developer & IoT Enthusiast</b> dedicated to building clean, secure, and high-performance web applications, as well as hardware-integrated systems using microcontrollers.</p>
       <ul>
         <li>🔭 Currently crafting production-ready web applications.</li>
         <li>🌱 Continuously mastering <b>Node.js Microservices</b>, advanced <b>Laravel Design Patterns</b>, and RESTful API optimizations.</li>
-        <li>💬 Ask me about <b>PHP Native, CodeIgniter 3, Laravel, or Node.js</b>.</li>
+        <li>💬 Ask me about <b>PHP Native, CodeIgniter 3, Laravel, Node.js, Arduino, or ESP32</b>.</li>
         <li>⚡ Fun fact: CodeIgniter 3 was my first major framework love, but Laravel is my superpower!</li>
       </ul>
     </td>
@@ -86,6 +86,18 @@
   <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-without-wordmark.svg" alt="MySQL" width="45" height="45" style="margin: 10px;" />
+  </a>
+  <!-- Arduino -->
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="45" height="45" style="margin: 10px;" />
+  </a>
+  <!-- ESP32 (Espressif) -->
+  <a href="https://www.espressif.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/espressif/E7352C" alt="ESP32" width="45" height="45" style="margin: 10px;" />
+  </a>
+  <!-- C++ -->
+  <a href="https://en.cppreference.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45" style="margin: 10px;" />
   </a>
 </p>
 
