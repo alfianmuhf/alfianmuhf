@@ -18,6 +18,9 @@
   <a href="https://github.com/alfianmuhf" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
+  <a href="https://portofolio-umber-six.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-007BEC?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge" />
+  </a>
 </p>
 
 <hr />
@@ -97,8 +100,8 @@
 
 <!-- Profile Footer Elements -->
 <p align="center">
-  <!-- Visitor Badge -->
+  <!-- Portfolio Redirect Button -->
   <a href="https://portofolio-umber-six.vercel.app/" target="_blank">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falfianmuhf%2Falfianmuhf&count_bg=%23007bec&title_bg=%23555555&icon=&icon_color=%23e7e7e7&title=Profile+Views&edge_flat=true" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-007BEC?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit My Portfolio" />
   </a>
 </p>
