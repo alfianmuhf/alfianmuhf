@@ -99,6 +99,6 @@
 <p align="center">
   <!-- Visitor Badge -->
   <a href="https://portofolio-umber-six.vercel.app/" target="_blank">
-    <img src="https://komarev.com/normal-badge/?username=alfianmuhf&color=007bec&style=flat-square&label=Profile+Views" alt="Profile Views" />
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falfianmuhf%2Falfianmuhf&count_bg=%23007bec&title_bg=%23555555&icon=&icon_color=%23e7e7e7&title=Profile+Views&edge_flat=true" alt="Profile Views" />
   </a>
 </p>
