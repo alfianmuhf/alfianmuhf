@@ -98,5 +98,7 @@
 <!-- Profile Footer Elements -->
 <p align="center">
   <!-- Visitor Badge -->
-  <img src="https://komarev.com/normal-badge/?username=alfianmuhf&color=007bec&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <a href="https://portofolio-umber-six.vercel.app/" target="_blank">
+    <img src="https://komarev.com/normal-badge/?username=alfianmuhf&color=007bec&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  </a>
 </p>
