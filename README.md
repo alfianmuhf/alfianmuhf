@@ -95,24 +95,6 @@
 
 <hr />
 
-<!-- GitHub Live Stats Cards -->
-<h3 align="center">📊 My GitHub Stats</h3>
-
-<p align="center">
-  <!-- GitHub Readme Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=alfianmuhf&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" alt="Alfian's GitHub Stats" height="195" />
-  &nbsp;&nbsp;
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfianmuhf&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" alt="Top Languages" height="195" />
-</p>
-
-<p align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfianmuhf&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" height="195" />
-</p>
-
-<hr />
-
 <!-- Profile Footer Elements -->
 <p align="center">
   <!-- Visitor Badge -->
